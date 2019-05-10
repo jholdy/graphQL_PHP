@@ -1,0 +1,10 @@
+[1] Log opened at 2019-05-07 22:03:59
+[1] I: Checking remote connect back address.
+[1] I: Checking header 'HTTP_X_FORWARDED_FOR'.
+[1] I: Checking header 'REMOTE_ADDR'.
+[1] W: Remote address not found, connecting to configured address/port: localhost:9000. :-|
+[1] W: Creating socket for 'localhost:9000', poll success, but error: Operation now in progress (29).
+[1] W: Creating socket for 'localhost:9000', connect: Cannot assign requested address.
+[1] E: Could not connect to client. :-(
+[1] Log closed at 2019-05-07 22:03:59
+[1]
